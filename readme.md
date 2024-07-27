@@ -9,3 +9,9 @@
 ` alterar todo o texto selecionado para minúsculo `  
 ` ALTERAR TODO O TEXTO SELECIONADO PARA MAIÚSCULO ` - **`default`**  
 ` Alterar Todo O Texto Selecionado Para Alternado `  
+
+## Como Instalar?
+* Abra a pasta **` build `**
+* Depois clique em **`<> code`** → **`Download ZIP`**
+* Descompacte o arquivo no seu computador
+* Abra a pasta extraida e execute o `P4Caps.exe`
