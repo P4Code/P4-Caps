@@ -5,7 +5,7 @@
 * Abra a pasta **` build `**
 * Depois clique em **`<> code`** → **`Download ZIP`**
 * Descompacte o arquivo no seu computador
-* Abra a pasta extraida e execute o `P4Caps.exe`
+* Abra a pasta extraída e execute o `P4Caps.exe`
 
 ## Modo de uso:  
 **` Ctrl + Caps Lock `**: **Ativa** a ação selecionada.  
